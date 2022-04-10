@@ -17,6 +17,5 @@
 <div> 
   <a href = "emanuelferreirafurtado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.emanuelfurtado.space/" target="_blank"><img src="https://www.emanuelfurtado.space/assets/img/favicon.png" target="_blank"></a> 
- 
+  <a href="https://www.emanuelfurtado.space/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" target="_blank"></a>
 </div>
