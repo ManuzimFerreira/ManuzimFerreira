@@ -20,5 +20,5 @@
   <a href="https://www.emanuelfurtado.space/" target="_blank"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" target="_blank"></a>
   <br>
   
- ![](https://komarev.com/ghpvc/?username=manuzimferreira&color=7C80A6&style=for-the-badge)
+ ![](https://komarev.com/ghpvc/?username=manuzimferreira&color=green)
 </div>
